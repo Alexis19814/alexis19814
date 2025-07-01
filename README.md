@@ -27,7 +27,11 @@ Tengo sólidos conocimientos :muscle: en Python, SQL y visualización de datos :
    
 ## 🌟 Proyectos Claves:
 
-
+- **[Proyecto sobre el comportamiento de los clientes](https://github.com/Alexis19814/Pronostico_taxi_horas_pico_RMSE48)**
+- **[Proyecto de análisis predictivo de éxito en videojuegos](https://github.com/Alexis19814/Descubriendo_-xitos-_modelo_predictivo_para_ventas_de_videojuegos)**
+- **[Proyecto de optimización en la selección de la mejor opcion](https://github.com/Alexis19814/Analisis_Beneficio_Riesgo_Pozos_200)**
+- **[Proyecto de comportamiento del usuario ](https://github.com/Alexis19814/Fuga_Clientes_Prediccion_F1)**
+- **[Proyecto basado en la predicción de cancelaciones](https://github.com/Alexis19814/Prediccion_Cancelacion_Clientes_Interconnect)**
 
 ---
 
